@@ -1,0 +1,7 @@
+{
+  "name": "faztionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
